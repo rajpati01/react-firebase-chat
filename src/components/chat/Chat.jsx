@@ -30,7 +30,60 @@ function Chat() {
         </div>
       </div>
 
-      <div className="center"></div>
+      <div className="center">
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi ipsum autem vitae aut adipisci ipsa dolores obcaecati iure, voluptate maxime nihil.
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message own">
+          <div className="texts">
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi ipsum autem vitae aut adipisci ipsa dolores obcaecati iure, voluptate maxime nihil.
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi ipsum autem vitae aut adipisci ipsa dolores obcaecati iure, voluptate maxime nihil.
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message own">
+          <div className="texts">
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi ipsum autem vitae aut adipisci ipsa dolores obcaecati iure, voluptate maxime nihil.
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi ipsum autem vitae aut adipisci ipsa dolores obcaecati iure, voluptate maxime nihil.
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+        <div className="message own">
+          <div className="texts">
+        <img src="https://images.pexels.com/photos/10147934/pexels-photo-10147934.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi ipsum autem vitae aut adipisci ipsa dolores obcaecati iure, voluptate maxime nihil.
+            </p>
+            <span>1 min ago</span>
+          </div>
+        </div>
+      </div>
 
       <div className="bottom">
         <div className="icons">
